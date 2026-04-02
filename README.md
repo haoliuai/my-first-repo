@@ -1,2 +1,4 @@
 # my-first-repo
-My first GitHub repository
+# hailiuai
+This is my first GitHub repository.
+I am starting my AI engineering journey.
